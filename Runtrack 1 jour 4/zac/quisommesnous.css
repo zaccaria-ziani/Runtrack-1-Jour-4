@@ -1,0 +1,29 @@
+	img {width:150px;}
+
+.section-qui{
+border-radius:30px;
+border-width:20px;
+font-family:Roboto-Light;
+hover:yellow;
+box-shadow:1px 5px 11px blue;
+
+}
+.section-qui:hover{
+	background-color:#FFE000
+}
+
+.section-qui2{ border-style:groove;
+border-radius:30px;
+border-width:20px;
+box-shadow:1px 5px 11px ;
+}
+
+.section-qui3{border-style:groove;
+border-radius:180px;
+text-align: center;
+width:480px;
+margin-left:30%;
+margin-right:auto;
+margin-bottom:10px;
+margin-top:10px;
+}
